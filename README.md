@@ -16,7 +16,7 @@ Dataset
 
 The analysis uses:
 
-* flights.csv
+* flights.csv , Note: The original flights.csv dataset is not included in this repository due to file size limitations.
 * airlines.csv
 * airports.csv
 
