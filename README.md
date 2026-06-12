@@ -1,4 +1,4 @@
-Flight Intelligence Analytics Platform
+Flight Delay Intelligence System
 
 A PySpark-based data analytics project that analyzes U.S. flight delays and cancellations. The project explores delay patterns across airlines, airports, routes, months, and departure times, and includes an interactive dashboard built with Dash and Plotly.
 
